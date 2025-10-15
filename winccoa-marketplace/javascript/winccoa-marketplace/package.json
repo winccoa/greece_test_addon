@@ -1,0 +1,31 @@
+{
+  "name": "winccoa-marketplace",
+  "version": "1.0.0",
+  "description": "The backend for the marketplace for WinCC OA",
+  "author": "ETM professional control",
+  "main": "index.js",
+  "keywords": [
+    "WinCCOA"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "@octokit/rest": "^22.0.0",
+    "octokit": "^5.0.3",
+    "simple-git": "^3.28.0"
+  },
+  "devDependencies": {
+    "@types/eslint__js": "^8.42.3",
+    "@types/node": "^24.7.2",
+    "@types/winccoa-manager": "C:/Program Files/Siemens/WinCC_OA/3.21/javascript/@types/winccoa-manager",
+    "@typescript-eslint/eslint-plugin": "^8.11.0",
+    "@typescript-eslint/parser": "^8.11.0",
+    "eslint": "^9.13.0",
+    "prettier": "^3.3.3",
+    "typescript-eslint": "^8.11.0"
+  },
+  "scripts": {
+    "build": "npm run eslint-check && npm run format && npx tsc",
+    "eslint-check": "eslint .",
+    "format": "prettier . --write --end-of-line auto"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "RepoName": "greece_test_addon",
+  "Keywords": ["javascript"],
+  "Subproject": "winccoa-marketplace",
+  "Version": "1.0.0",
+  "Description": "This is a test",
+  "OaVersion": "^3.21.0",
+  "Managers": [
+  {
+    Name: "WCCOActrl",
+    StartMode: "Always",
+    Options: "-num 10 run.ctl"
+  }
+  ]
+}

@@ -1,1 +1,2 @@
-# greece_test_addon
+# winccoa-marketplace
+Backend API and WebUI for configuration
