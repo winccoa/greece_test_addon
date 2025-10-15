@@ -1,15 +1,17 @@
 {
   "RepoName": "greece_test_addon",
   "Keywords": ["javascript"],
-  "Subproject": "winccoa-marketplace",
+  "Subproject": "testAddon",
   "Version": "1.0.0",
   "Description": "This is a test",
   "OaVersion": "^3.21.0",
-  "Managers": [
+  "Managers": 
+  [
   {
-    Name: "WCCOActrl",
-    StartMode: "Always",
-    Options: "-num 10 run.ctl"
+    "Name": "WCCOActrl",
+    "StartMode": "Always",
+    "Options": "-num 10 test.ctl"
   }
-  ]
+  ],
+  "Dplists": ["test.dpl"]
 }

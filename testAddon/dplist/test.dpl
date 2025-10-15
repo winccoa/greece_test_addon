@@ -1,0 +1,9 @@
+# ascii dump of database
+
+# DpType
+TypeName
+ExampleDP_Float.ExampleDP_Float	22#1
+
+# Datapoint/DpId
+DpName	TypeName
+ExampleDP_Arg100	ExampleDP_Float
