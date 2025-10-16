@@ -1,4 +1,4 @@
-{
+[{
   "RepoName": "greece_test_addon",
   "Keywords": ["javascript"],
   "Subproject": "testAddon",
@@ -14,4 +14,4 @@
   }
   ],
   "Dplists": ["test.dpl"]
-}
+}]
