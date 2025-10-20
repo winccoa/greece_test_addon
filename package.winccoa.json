@@ -13,5 +13,6 @@
     "Options": "-num 10 test.ctl"
   }
   ],
-  "Dplists": ["test.dpl"]
+  "Dplists": ["test.dpl"],
+  "UpdateScripts": ["updateAddon.ctl", "updateAddonJS.js"]
 }
