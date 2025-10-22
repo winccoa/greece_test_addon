@@ -2,7 +2,7 @@
   "RepoName": "greece_test_addon",
   "Keywords": ["javascript"],
   "Subproject": "testAddon",
-  "Version": "1.0.4",
+  "Version": "1.0.5",
   "Description": "This is a test",
   "OaVersion": "^3.21.0",
   "Managers": 
