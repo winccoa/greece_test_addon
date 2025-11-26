@@ -1,7 +1,7 @@
 {
   "RepoName": "greece_test_addon",
   "Keywords": ["javascript"],
-  "Version": "1.0.8",
+  "Version": "1.0.9",
   "Description": "This is a test",
   "OaVersion": "^3.21.0",
   "Subprojects": [
