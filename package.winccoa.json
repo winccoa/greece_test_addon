@@ -4,6 +4,7 @@
   "Version": "1.0.9",
   "Description": "This is a test",
   "OaVersion": "^3.21.0",
+  "Dependencies": ["https://github.com/winccoa/winccoa-ae-ui-ptframework.git"],
   "Subprojects": [
 	{
 	"Name": "testAddon",
